@@ -1,0 +1,26 @@
+.main{
+    border: 2px solid  #C00;
+    width: 200px;
+    margin:0 auto
+}
+
+.result{
+    width: 96%;
+    background-color: #100a1c ;
+    color: #FFF;
+} 
+
+
+.btn{
+    background-color: #100a1c;
+    width: 45px;
+    margin: 1px;
+	color:#FFF;
+}
+
+.halfBtn{
+    background-color:#100a1c;
+    width: 95px;
+    margin: 1.5px;
+	color:#FFF;
+}
